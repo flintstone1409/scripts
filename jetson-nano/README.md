@@ -8,7 +8,7 @@ This video encoder is not supported by ffmpeg by default, but requires a patch.
 This patch is applied when building ffmpeg using the build-ffmpeg script in this repository.
 After building, the encoder can be used by using 'h264_nvmpi' as the codec.
 
-Please note that this the ffmpeg patch is not officially supported by NVIDIA (as far as I know) and might cause some problems from time to time, although it works pretty good in general.
+Please note that this ffmpeg patch is not officially supported by NVIDIA (as far as I know) and might cause some problems from time to time, although it works pretty good in general.
 
 ## Scripts in this folder
 
