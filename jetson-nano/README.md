@@ -9,6 +9,7 @@ This patch is applied when building ffmpeg using the build-ffmpeg script in this
 After building, the encoder can be used by using 'h264_nvmpi' as the codec.
 
 Please note that this ffmpeg patch is not officially supported by NVIDIA (as far as I know) and might cause some problems from time to time, although it works pretty good in general.
+There is a fork by [Keylost](https://github.com/Keylost/jetson-ffmpeg), that also supports newer versions of ffmpeg.
 
 ## Scripts in this folder
 
